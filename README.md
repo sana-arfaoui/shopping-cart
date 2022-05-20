@@ -7,7 +7,7 @@ Demo
 https://sana-arfaoui.github.io/shopping-cart/
 
 
-shopping cart for beginners: it’s a cart in which items have already been preselected and from this particular screen the user is able to apply the following instructions:
+Responsive shopping cart for beginners: it’s a cart in which items have already been preselected and from this particular screen the user is able to apply the following instructions:
 
 
 1- Adjust the quantity of each item through  “+” and “-” buttons.
