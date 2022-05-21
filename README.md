@@ -2,9 +2,7 @@
 
 HTML And CSS And JavaScript
 
-Demo 
 
-https://sana-arfaoui.github.io/shopping-cart/
 
 
 Responsive shopping cart for beginners: it’s a cart in which items have already been preselected and from this particular screen the user is able to apply the following instructions:
